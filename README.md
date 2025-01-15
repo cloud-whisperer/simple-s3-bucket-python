@@ -1,3 +1,6 @@
 # simple-s3-bucket-python
-# A mini-project to learn how to work with the awscli, create an S3 bucket on AWS, and upload an image file securely.
+# A mini-project to learn how to:
+- Work with the awscli
+- Create an S3 bucket on AWS
+- Upload an image file securely
 
