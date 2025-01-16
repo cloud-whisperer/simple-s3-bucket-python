@@ -1,4 +1,4 @@
-# simple-s3-bucket-python
+# simple-s3-bucket-python  🐍
 # A mini-project to learn how to:
 - Work with the awscli
 - Create an S3 bucket on AWS
